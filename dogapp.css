@@ -1,0 +1,19 @@
+        button{
+            padding: 10px;
+            background-color: dodgerblue;
+            border: none;
+            color: white;
+            border-radius: 5px;
+        }
+        
+        button:hover{
+            background-color: darkblue;
+        }
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        
+        #dogpic{
+            height: 300px;
+        }
+        h2{color: grey;}
